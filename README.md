@@ -3,7 +3,7 @@
     <span class="colorful_text">D<sup>2</sup>USt3R</span>: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes
   </h1>
   
-  [**Jisang Han**](https://onground-korea.github.io)<sup>1\*</sup> · [**Honggyu An**](https://hg010303.github.io/)<sup>1\*</sup> · [**Jaewoo Jung**](https://crepejung00.github.io/)<sup>1\*</sup> · **Takuya Narihira**<sup>2</sup> · [**Junyoung Seo**](https://j0seo.github.io/)<sup>1</sup> · **Kazumi Fukuda**<sup>2</sup> · [**Chaehyun Kim**](https://kchyun.github.io/)<sup>3</sup> · [**Sunghwan Hong**](https://sunghwanhong.github.io/)<sup>3</sup> · [**Yuki Mitsufuji**](https://www.yukimitsufuji.com/)<sup>2,4&dagger;</sup> · [**Seungryong Kim**](https://cvlab.kaist.ac.kr/members/faculty)<sup>1&dagger;</sup>
+  [**Jisang Han**](https://onground-korea.github.io)<sup>1\*</sup> · [**Honggyu An**](https://hg010303.github.io/)<sup>1\*</sup> · [**Jaewoo Jung**](https://crepejung00.github.io/)<sup>1\*</sup> · **Takuya Narihira**<sup>2</sup> · [**Junyoung Seo**](https://j0seo.github.io/)<sup>1</sup> · **Kazumi Fukuda**<sup>2</sup> · [**Chaehyun Kim**](https://kchyun.github.io/)<sup>1</sup> · [**Sunghwan Hong**](https://sunghwanhong.github.io/)<sup>3</sup> · [**Yuki Mitsufuji**](https://www.yukimitsufuji.com/)<sup>2,4&dagger;</sup> · [**Seungryong Kim**](https://cvlab.kaist.ac.kr/members/faculty)<sup>1&dagger;</sup>
 
 <sup>1</sup>KAIST AI&emsp;&emsp;&emsp;&emsp;<sup>2</sup>Sony AI&emsp;&emsp;&emsp;&emsp;<sup>3</sup>Korea University&emsp;&emsp;&emsp;&emsp;<sup>4</sup>Sony Group Corporation
 
