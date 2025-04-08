@@ -1,24 +1,4 @@
 <div align="center">
-  <style>
-    .colorful_text {
-      background: linear-gradient(
-        90deg,
-        #ff6ec4,
-        #7873f5,
-        #4ade80,
-        #22d3ee,
-        #ff9f43,
-        #ff6ec4
-      );
-      background-size: 300%;
-      background-clip: text;
-      -webkit-background-clip: text; /* Needed for Safari */
-      color: transparent;
-      transition: background-position 0.8s ease, transform 0.4s ease;
-      display: inline-block;
-    }
-  </style>
-
   <h1>
     <span class="colorful_text">D<sup>2</sup>USt3R</span>: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes
   </h1>
