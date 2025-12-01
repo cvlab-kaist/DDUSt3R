@@ -50,7 +50,7 @@ cd ../../../
 ```
 
 ### Download Checkpoints
-We currently provide fine-tuned model weights for DDUSt3R, which can be downloaded on [Google Drive]().
+We currently provide fine-tuned model weights for DDUSt3R, which can be downloaded on [Google Drive](https://drive.google.com/file/d/1dUy03ohGK2jbzhRLN4HYfDkJIpfGr5lP/view?usp=sharing).
 
 ### Inference
 
