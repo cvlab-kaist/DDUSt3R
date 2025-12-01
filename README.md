@@ -73,4 +73,4 @@ If you find our work useful, please cite:
 ```
 
 ## Acknowledgements
-Our code is based on [MonST3R](https://github.com/junyi42/monst3r) and [DUSt3R](https://github.com/naver/dust3r), and our visualization code is based on [Viser](https://github.com/nerfstudio-project/viser). We thank the authors for their excellent work!
+Our code is based on [MonST3R](https://github.com/junyi42/monst3r) and [DUSt3R](https://github.com/naver/dust3r). We thank the authors for their excellent work!
